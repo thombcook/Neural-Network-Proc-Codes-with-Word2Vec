@@ -24,3 +24,6 @@ embeddings.' I used it this was to solve the problem given to me but there would
 to predict with this info like this. Additionally, I used procedure codes since I had access to these codes, but icd codes would also work 
 with the word embedding approach and likely offer untapped insights into the healthcare field. ICD codes would require many more millions
 of rows with which to train the model but the data is out there and could tells us a lot about predicting disease or other health conditions. 
+
+
+My apologies for not cleaning up the code more. I am in part putting this data up as a resource for myself in the even I need to go back and use some of the snippets I wrote for this exercise. If anyone has questions about my logic, thoughts, approach, or anything else do not hesitate to reach out. 
